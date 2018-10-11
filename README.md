@@ -1,6 +1,6 @@
 # multi-polygon-
 
-Making multi polygon in golang
+Making 2D multi polygon in golang
 
 Example:
 
