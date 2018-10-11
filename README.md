@@ -1,5 +1,8 @@
 # multi-polygon-
-making multi polygon in golang
+
+Making multi polygon in golang
+
+Example:
 
 <p align="center">
   <img src="https://github.com/o-z/multi-polygon-/blob/master/image/polygon.png" width="350" title="hover text">
